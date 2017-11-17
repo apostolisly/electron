@@ -1,4 +1,5 @@
 [![Electron Logo](https://electron.atom.io/images/electron-logo.svg)](https://electron.atom.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Felectron.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Felectron?ref=badge_shield)
 
 [![Travis Build Status](https://travis-ci.org/electron/electron.svg?branch=master)](https://travis-ci.org/electron/electron)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/bc56v83355fi3369/branch/master?svg=true)](https://ci.appveyor.com/project/electron-bot/electron/branch/master)
@@ -108,3 +109,6 @@ for a community maintained list of useful example apps, tools and resources.
 [MIT](https://github.com/electron/electron/blob/master/LICENSE)
 
 When using the Electron or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Felectron.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Felectron?ref=badge_large)
